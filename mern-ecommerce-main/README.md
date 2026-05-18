@@ -100,8 +100,4 @@
 <img width="60%" height="auto" alt="mamolio store_store_products" src="https://github.com/user-attachments/assets/44b16563-6378-4053-a5ea-2e955a72cb9a" />
 <img width="35%" height="auto" alt="mamolio store_store_products_67746fbf537e5b283bd1352a" src="https://github.com/user-attachments/assets/999dd4ea-b5ac-426b-9d4c-31d61ec56d5e" />
 
-## Contact
 
-Have questions, feedback, or want to collaborate? Feel free to reach out!
-
-- Email: marouaneezzaky@gmail.com
